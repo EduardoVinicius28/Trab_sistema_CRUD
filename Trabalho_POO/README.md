@@ -1,18 +1,29 @@
-## Getting Started
+<h1 align="left">Sistema CRUD em java</h1>
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+###
 
-## Folder Structure
+<p align="left">Este é um simples sistema CRUD em java para o trabalho do meu cuso, o sistema consiste em gerenciar produtos de uma lanchonete.</p>
 
-The workspace contains two folders by default, where:
+###
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+<h2 align="left">Conceitos presente no projeto:</h2>
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+###
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+<p align="left">Variáveis primitivas<br>Estruturas de decisão<br>Estruturas de repetição<br>Vetores estáticos ou dinâmicos<br>Classes, objetos, atributos, métodos<br>Construtores<br>Encapsulamento (getters e setters)<br>Herança<br>Polimorfismo (sobrecarga ou sobrescrita)<br>Classe abstrata<br>Interface<br>Tratamento de exceções</p>
 
-## Dependency Management
+###
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+<h2 align="left">Linguagem:</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+</div>
+
+###
+
+<p align="left"></p>
+
+###
