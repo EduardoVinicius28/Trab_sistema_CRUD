@@ -114,7 +114,8 @@ public class Principal{
         } catch (InputMismatchException e) {//se o usuario digitar uma letra no lugar de um numero
             System.out.println("ERRO! Você digitou um valor inválido!");
             } finally{
-                System.out.println("\nBy: Eduardo Vinicius || Elias Bezerra \nGitHub: EduardoVinicius28\n");
+                System.out.println("\nBy: Eduardo Vinicius || Elias Bezerra \nGitHub: EduardoVinicius28\nLink do projeto: https://github.com/EduardoVinicius28/Trab_sistema_CRUD");
+                System.out.println("Sistema encerrado.");
             }
     }
 }
