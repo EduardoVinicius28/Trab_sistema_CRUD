@@ -1,16 +1,16 @@
-public abstract class Produto implements interf{
+public abstract class Produto implements interf{ //Classe base com os dados comuns dos produtos
 
     private int codigo;
     private String produto;
     private double preco;
-
+    //Construtor
     public Produto(){};
     public Produto(int codigo, String produto, double preco){
         this.codigo = codigo;
         this.produto = produto;
         this.preco = preco;
     };
-
+    //Getters e Setters
     public int getCodigo() {
         return codigo;
     }
